@@ -1,0 +1,424 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hearder{
+    background-color: rgba(250, 248, 248, 0);
+    height: 67px;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.flip-image{
+    padding-top: 10px;
+}
+
+.searchicon  {
+   
+    background-color: rgb(235, 232, 232);
+    height: 40px;
+    width: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: grey;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.bar{
+    display: flex;
+    margin-top: 13.5px;
+}
+
+.searchbar input{
+    height: 40px;
+    width: 400px;
+    background-color: rgb(235, 232, 232);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+/**.account  {
+   
+   
+    height: 40px;
+    width: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 13.5px;
+
+}
+**/
+select:hover{
+    background-color: rgb(38, 73, 228);
+}
+
+select{
+    height: 40px ;
+    width: 90px;
+    border-radius: 5%;
+    margin-top: 13.5px;
+
+}
+
+.cart{
+  font-size: 1.1rem;
+  align-items: center;
+  display: flex;
+  color: rgb(36, 38, 37);
+}
+
+.shop{
+    display: flex;
+    font-size: 1.1rem;
+    align-items: center;
+    color: rgb(36, 38, 37);
+
+}
+
+p{
+    padding-left: 8px;
+}
+
+/**.dots{
+    display: flex;
+    font-size: 1.1rem;
+    align-items: center;
+    color: rgb(36, 38, 37);
+
+}**/
+
+.dots:hover{
+    border:1px solid rgb(219, 219, 219) ;
+    height: 22px;
+    width: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15%;
+    background-color: rgb(250, 248, 246);
+    
+    padding: 8px;
+}
+
+.dotcss{
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    font-size: 1.1rem;
+    align-items: center;
+    justify-content: center;
+    color: rgb(36, 38, 37);
+   
+}
+
+
+.main{
+    height: 900px;
+    background-color: rgb(235, 232, 232);
+    display: flex;
+    justify-content: center;
+  
+}
+
+.option{
+    margin: 10px;
+    height: 151px;
+    width: 1320px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.img1{
+    height: 64px;
+    width: 64px;
+}
+
+.img2{
+    height: 64px;
+    width: 64px;
+}
+
+.img3{
+    height: 53px;
+    width: 53px;
+}
+
+.img4{
+    height: 64px;
+    width: 64px;
+}
+
+.img5{
+    height: 64px;
+    width: 64px;
+}
+
+.img6{
+    height: 64px;
+    width: 64px;
+}
+
+.img7{
+    height: 64px;
+    width: 64px;
+}
+
+.img8{
+    height: 64px;
+    width: 64px;
+}
+
+.img9{
+    height: 53px;
+    width: 53px;
+}
+
+.img11{
+
+}
+   
+
+.img2{
+    height: 64px;
+    width: 64px;
+}
+
+.img3{
+    height: 53px;
+    width: 53px;
+}
+
+.img4{
+    height: 64px;
+    width: 64px;
+}
+
+.img5{
+    height: 64px;
+    width: 64px;
+}
+
+.img6{
+    height: 64px;
+    width: 64px;
+}
+
+.img7{
+    height: 64px;
+    width: 64px;
+}
+
+.img8{
+    height: 64px;
+    width: 64px;
+}
+
+.img9{
+    height: 53px;
+    width: 53px;
+}
+
+.grocery{
+    padding-left: 4px;
+    width: 64px;
+}
+
+.hero{
+   height: 220px;
+   width:  1320px;
+   background-color: white;
+   margin-left: 10px;
+ 
+}
+
+.heroimg{
+    height: 200px;
+    width:  1320px;
+   
+    
+}
+
+
+ .offers{
+    background-color: white;
+    height: 64px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    padding-left: 25px;
+  
+ }
+
+ .offerimg{
+    background-color: white;
+    height: 236px;
+    width: 80%;
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-evenly;  
+    padding-left: 25px;
+    padding-bottom: 10px;
+   
+ }
+ 
+
+ .ad1img {
+    height: 142px;
+    width: 142px;
+ }
+ .ad2img {
+    height: 142px;
+    width: 142px;
+ }
+ .ad3img {
+    height: 142px;
+    width: 142px;
+ }
+ .ad4img {
+    height: 142px;
+    width: 142px;
+ }
+ .ad5img {
+    height: 142px;
+    width: 142px;
+ }
+
+ .text{
+    margin-top: 14px;
+    margin-left: 8px;
+ }
+
+ .text1{
+    margin-top: 6px;
+    margin-left: 15px;
+
+ }
+ .ad1 {
+    border: 1px solid rgb(224, 222, 222);
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 7px;
+ }
+ .ad2 {
+    border: 1px solid rgb(224, 222, 222);
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 7px;
+ }
+
+ .ad3 {
+    border: 1px solid rgb(224, 222, 222);
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 7px;
+ }
+
+ .ad4 {
+    border: 1px solid rgb(224, 222, 222);
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 7px;
+ }
+
+ .ad5 {
+    border: 1px solid rgb(224, 222, 222);
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 7px;
+ }
+
+ .sidead{
+    background-color: white;
+    height: 164px;
+    width: 130px;
+ display:inline-table;
+
+
+ }
+
+ .right-div {
+    position: absolute; /* Make it position relative to the nearest positioned ancestor */
+    top: 493px; /* Adjust based on the height of your container */
+    right: 20px; /* Distance from the right edge of the screen */
+    width: 180px; /* Adjust width */
+    height: 292px; /* Adjust height */
+    background-color: white; /* Add a background color for visibility */
+    
+    padding: 10px; /* Optional padding */
+}
+
+.rightimg{
+    width: 180px; /* Adjust width */
+    height: 287px
+}
+
+
+
+.table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    width: 100%;
+    height: 460px;
+}
+
+.footer{
+    background-color: rgb(24, 22, 22) ;
+    width: 100%;
+    height: 300px;
+    margin-top: 280px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.list1{
+    color: white;
+    padding: 30px;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+
+h6{
+    padding-bottom: 5px;
+    color: white;
+    padding-left: 30px;
+}
+
+.list1{
+    padding-bottom: 20px;
+    color:  #878787;
+}
+.list4{
+    border-left: 1px solid #878787 ;
+    padding-bottom: 10px;
+    padding-left: 55px;
+}
+
+hr{
+    color: aqua;
+}
+.copy{
+    width: 100%;
+    height: 50px;
+    background-color:  rgb(24, 22, 22);
+    border-top: 0.5px solid #878787;
+    color: silver;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
